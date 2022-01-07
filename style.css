@@ -1,0 +1,7 @@
+body{
+    background: 
+    background-color: #2626ca;
+    opacity: 1.0;
+    background-image: radial-gradient( ellipse farthest-corner at 26px 26px , #f79f45, #f79f45 50%, #2626ca 50%);
+    background-size: 26px 26px;
+}
